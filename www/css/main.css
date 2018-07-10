@@ -1,0 +1,30 @@
+img{
+    width: 130px;
+    height: 100px;
+    border: 1px solid gray;
+   
+}
+#flags, #droparea{
+    float: left;
+    padding: 1%;
+    width: 100%;
+}
+#flags div, #droparea div{
+    float: left;
+    width: 130px;
+    height:100px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    
+    
+}
+#droparea div{
+    border:2px black solid;
+    border-radius:5px;
+    font-size:1.5em;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
